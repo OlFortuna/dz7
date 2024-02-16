@@ -1,0 +1,15 @@
+/Users/olgafortuna/Desktop/gb/dz7/bin/Debug/net6.0/dz7
+/Users/olgafortuna/Desktop/gb/dz7/bin/Debug/net6.0/dz7.deps.json
+/Users/olgafortuna/Desktop/gb/dz7/bin/Debug/net6.0/dz7.runtimeconfig.json
+/Users/olgafortuna/Desktop/gb/dz7/bin/Debug/net6.0/dz7.dll
+/Users/olgafortuna/Desktop/gb/dz7/bin/Debug/net6.0/dz7.pdb
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.csproj.AssemblyReference.cache
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.AssemblyInfoInputs.cache
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.AssemblyInfo.cs
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.csproj.CoreCompileInputs.cache
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.dll
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/refint/dz7.dll
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.pdb
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/dz7.genruntimeconfig.cache
+/Users/olgafortuna/Desktop/gb/dz7/obj/Debug/net6.0/ref/dz7.dll
